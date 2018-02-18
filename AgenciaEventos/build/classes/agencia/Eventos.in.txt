@@ -1,0 +1,5 @@
+123*F*Jose Perez*10-Ago-2012*La Concordia*false*true*1*true*100*true*100*false*0%Doky%2
+789*B*Gloria Castro*2-Jun-2012*Paramillo*true*true*2*false*0*true*300*false*0%7
+456*F*Luisa Ramos*25-Jul-2012*Barrio Sucre*false*true*2*true*250*true*300*true*1%Ben 10%3
+258*M*Luis Roa*17-Jun-2012*Sta Teresa*false*true*1*false*0*true*800*true*1%20
+157*F*Mia Vargas*22-Ago-2012* La Concordia*true*false*0*true*100*true*100*false*0%Peppa%1

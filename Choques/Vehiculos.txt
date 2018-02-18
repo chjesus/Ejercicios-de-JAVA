@@ -1,0 +1,11 @@
+1-Ford-Laser-1.61-01
+1-Mazda-Mazda6-1.82-02
+2-Ford-F150-2.25-03
+1-Renault-Logan-1.54-04
+3-Iveco-59 12-3.12-05
+2-Toyota-Tacoma-2.10-06
+1-Chery-QQ-0.98-07
+3-Scania-Irizar-4.7-08
+2-Mazda-BT50-1.98-09
+3-Encava-ENT 610-3.51-10
+3-Ford-Turbico-3.76-11
